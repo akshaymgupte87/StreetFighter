@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv38/
+.idea/
+Training/Logs/
+Training/Models/
+street_fighter_model.zip
+diagnostics/
+roms/
+.env
+.env.*
